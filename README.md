@@ -1,13 +1,4 @@
 === Sponsored Link Indicator ===
-Contributors: spegaldev
-Donate link: https://out.spegal.dev/coffee-wordpress
-Tags: sponsored, links, indicator, affiliate
-Requires at least: 5.2
-Tested up to: 5.8
-Requires PHP: 7.2
-Stable tag: 1.0
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Adds an icon to sponsored links on your site. The icon can be customized in the settings, and can be placed either before or after the link text.
 
