@@ -24,12 +24,4 @@ Yes, you can choose from a set of popular icons in the plugin settings.
 
 Yes, you can choose to place the icon either before or after the link text.
 
-== Changelog ==
-
-= 1.0 =
-* Initial release.
-
-== Upgrade Notice ==
-
-= 1.0 =
-Initial release.
+[Enjoy this plugin? Consider buying me a coffee ☕](https://out.spegal.dev/coffee-wordpress)
