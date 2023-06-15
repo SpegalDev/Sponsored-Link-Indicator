@@ -24,4 +24,6 @@ Yes, you can choose from a set of popular icons in the plugin settings.
 
 Yes, you can choose to place the icon either before or after the link text.
 
-[Enjoy this plugin? Consider buying me a coffee ☕](https://out.spegal.dev/coffee-wordpress)
+-----
+
+If you find this plugin useful, consider [buying me a coffee ☕](https://out.spegal.dev/coffee)
