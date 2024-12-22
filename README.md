@@ -26,4 +26,6 @@ Yes, you can choose to place the icon either before or after the link text.
 
 -----
 
-If you find this plugin useful, consider [buying me a coffee ☕](https://out.spegal.dev/coffee)
+If you find this plugin useful, consider buying me a coffee or two.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://out.spegal.dev/coffee/github)
